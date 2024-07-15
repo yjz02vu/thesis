@@ -10,6 +10,8 @@ from nltk.stem import WordNetLemmatizer
 from nltk import pos_tag
 import json
 import os
+
+import ast
 import random
 # Load spaCy's English model
 nlp = spacy.load("en_core_web_sm")
@@ -27,7 +29,7 @@ def load_custom_words(file_path):
         return set()
     
 # Load custom valid words and update the English words set
-custom_words_file = "custom_valid_words.json"
+custom_words_file = "Data/predefined_data/custom_valid_words.json"
 custom_valid_words = load_custom_words(custom_words_file)
 english_words.update(custom_valid_words)
 
@@ -98,39 +100,8 @@ def load_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return json.load(file)
 
-# Function to save conversations to JSON
-# def save_conversations(file_name, conversations):
-#     with open(file_name, 'w', encoding='utf-8') as file:
-#         json.dump(conversations, file, indent=4)
-#     print(f"Splitted conversations for '{file_name}' saved to JSON file successfully!")
 
-# Load data
-function = "communication"
-filename = "test" + function
-f_path = f"response_data/raw_conversations/{filename}.json"
-data = load_json(f_path)
 
-# Organize conversations by activity
-conversations = {}
-for dic in data[function]:
-    activity = dic["activity"]
-    conversation = dic["conversation"]
-    if activity not in conversations:
-        conversations[activity] = []
-    conversations[activity].append(conversation)
-
-# Filter conversations by activity and check for invalid tokens
-filtered_conversations = {}
-possible_lemmas_ls = []
-for activity, conversation in conversations.items():
-    valid_conversations, possible_lemmas = filter_conversations(conversation)
-    filtered_conversations[activity] = valid_conversations
-    possible_lemmas_ls.extend(possible_lemmas)
-    print(f"Activity: {activity}, Valid conversations: {len(valid_conversations)}")
-
-print(f"Possible lemmas: {set(possible_lemmas_ls)}")
-
-##split data
 def split_conversations(filtered_conversations):
     split_dicts = {}
 
@@ -139,7 +110,7 @@ def split_conversations(filtered_conversations):
         total_conversations = len(cleaned_conversations)
         train_size = int(total_conversations * 0.7)
         val_size = int(total_conversations * 0.125)
-        
+            
 
         train_conversations = cleaned_conversations[:train_size]
         val_conversations = cleaned_conversations[train_size:train_size + val_size]
@@ -153,22 +124,59 @@ def split_conversations(filtered_conversations):
 
     return split_dicts
 
-split_dicts = split_conversations(filtered_conversations)
-# Prepare data for saving
-train_dict = {act: dicts["train"] for act, dicts in split_dicts.items()}
-val_dict = {act: dicts["val"] for act, dicts in split_dicts.items()}
-test_dict = {act: dicts["test"] for act, dicts in split_dicts.items()}
-
-
 def save_conversations(file_name, conversations):
     with open(file_name, 'w', encoding='utf-8') as file:
         json.dump(conversations, file, indent=4)
     print(f"Splitted conversations for '{file_name}' saved to JSON file successfully!")
 
-# Save data
-output_dir_s = f"response_data/split_conversations/{function}/"
-os.makedirs(output_dir_s, exist_ok=True)
 
-save_conversations(os.path.join(output_dir_s, "train.json"), train_dict)
-save_conversations(os.path.join(output_dir_s, "val.json"), val_dict)
-save_conversations(os.path.join(output_dir_s, "test.json"), test_dict)
+
+def main():
+    my_list_str = os.getenv('MY_LIST', '[]')
+    function_ls = ast.literal_eval(my_list_str)
+
+ # function_ls = ["communication"]
+    for func in function_ls:
+        # filename = "test" + func
+        f_path = f"Data/response_data/raw_conversations/{func}.json"
+        data = load_json(f_path)
+
+        # Organize conversations by activity
+        conversations = {}
+        for dic in data[func]:
+            activity = dic["activity"]
+            conversation = dic["conversation"]
+            if activity not in conversations:
+                conversations[activity] = []
+            conversations[activity].append(conversation)
+
+        # Filter conversations by activity and check for invalid tokens
+        filtered_conversations = {}
+        possible_lemmas_ls = []
+        for activity, conversation in conversations.items():
+            valid_conversations, possible_lemmas = filter_conversations(conversation)
+            filtered_conversations[activity] = valid_conversations
+            possible_lemmas_ls.extend(possible_lemmas)
+            print(f"Activity: {activity}, Valid conversations: {len(valid_conversations)}")
+        print()
+        print(f"Possible lemmas not to be removed: {set(possible_lemmas_ls)}")
+        print()
+
+
+        split_dicts = split_conversations(filtered_conversations)
+        # Prepare data for saving
+        train_dict = {act: dicts["train"] for act, dicts in split_dicts.items()}
+        val_dict = {act: dicts["val"] for act, dicts in split_dicts.items()}
+        test_dict = {act: dicts["test"] for act, dicts in split_dicts.items()}
+
+        # save data
+        output_dir_s = f"Data/response_data/split_conversations/{func}/"
+        os.makedirs(output_dir_s, exist_ok=True)
+
+        save_conversations(os.path.join(output_dir_s, "train.json"), train_dict)
+        save_conversations(os.path.join(output_dir_s, "val.json"), val_dict)
+        save_conversations(os.path.join(output_dir_s, "test.json"), test_dict)
+
+
+if __name__ == "__main__":
+    main()
