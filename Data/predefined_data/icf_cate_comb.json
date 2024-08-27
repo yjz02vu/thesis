@@ -1,0 +1,154 @@
+{
+    "mobility": {
+        "Changing basic body position": {
+            "definition": "Getting into and out of a body position and moving from one location to another",
+            "examples": "Getting up out of a chair to lie down on a bed; getting into and out of positions of sitting, standing, kneeling such as during prayers; squatting such as in toilets that are at floor level; bending such as in bowing or reaching down for an object.",
+            "sub_activity": "Lying down; Squatting; Kneeling; Sitting; Standing; Bending; Shifting the body's centre of gravity; Rolling over."
+        },
+        "Maintaining body position": {
+            "definition": "Staying in the same body position as required",
+            "examples": "Remaining seated or remaining standing for carrying out a task, in play, work or school; remaining in a lying position; remaining in a squatting position; remaining in a kneeling position such as during prayers in church; maintaining a sitting position such as when sitting at a desk or table; remaining in a standing position such as when standing in a queue; remaining the head position"
+        },
+        "Transferring oneself": {
+            "definition": "Moving from one surface to another",
+            "examples": "Sliding along a bench or moving from a bed to a chair, without changing body position."
+        },
+        "Lifting and carrying objects": {
+            "definition": "Moving from a sitting position on one seat to another seat on the same or a different level.",
+            "examples": "Moving from a chair to a bed; lifting such as lifting a glass from the table; carrying in the hands such as when carrying a drinking glass or a suitcase; carrying in the arms such as when carrying a pet or a child or other large object; carrying on shoulders, hip and back, such as when carrying a large parcel or school-bag; carrying on the head such as when carrying a container of water on the head; putting down objects such as when lowering a container of water to the ground."
+        },
+        "Moving objects with lower extremities": {
+            "definition": "Performing coordinated actions aimed at moving an object by using the legs and feet",
+            "examples": "Kicking a ball; pushing pedals on a bicycle; pushing a chair away with a foot.",
+            "sub_activity": "Using the legs and feet to exert a force on an object to move it away; Using the legs and feet to propel something away"
+        },
+        "Fine hand use": {
+            "definition": "Performing the coordinated actions of handling objects, picking up, manipulating and releasing them using one's hand, fingers and thumb",
+            "examples": "Lifting coins off a table; turning a dial or knob; picking up a pencil; grasping a tool or a door knob; handling coins or other small objects, such as scissors, shoe laces, pencils, chop sticks, knives and forks; dropping an item of clothing or a piece of food for a pet.",
+            "sub_activity": "Lifting or taking up a small object with hands and fingers; Using one or both hands to seize and hold something; Using fingers and hands to exert control over, direct or guide something; Using fingers and hands to let go or set free something so that it falls or changes position"
+        },
+        "Hand and arm use": {
+            "definition": "Performing the coordinated actions required to move objects or to manipulate them by using hands and arms, such as when turning door handles or throwing or catching an object.",
+            "examples": "Pulling on a string or pulling a door closed, pushing a toy or an animal away, reaching across a table or desk for a book, as is required to open a jar or use tools such as a toothbrush or screwdriver, tossing a ball, catching a ball.",
+            "sub_activity": "Using fingers, hands and arms to bring an object towards or from oneself; to extend outwards and touch and grasp something; to rotate, turn or bend an object; to lift something and propel it with some force through the air; to grasp a moving object in order to bring it to a stop and hold it."
+        },
+        "Fine foot use": {
+            "definition": "Performing the coordinated actions to move or manipulate objects using one's foot and toes."
+        },
+        "Walking": {
+            "definition": "Moving along a surface on foot, step by step, so that one foot is always on the ground.",
+            "examples": "Strolling, sauntering, walking forwards, backwards, or sideways.",
+            "sub_activity": "Walking short distances: Walking for less than a kilometre, such as walking around rooms or hallways, within a building or for short distances outside;\nWalking long distances: Walking for more than a kilometre, such as across a village or town, between villages or across open areas;\nWalking on different surfaces: Walking on sloping, uneven, or moving surfaces, such as on grass, gravel or ice and snow, or walking aboard a ship, train or other vehicle;\nWalking around obstacles: Walking in ways required to avoid moving and immobile objects, people, animals, and vehicles, such as walking around a marketplace or shop, around or through traffic or other crowded areas."
+        },
+        "Going up and down stairs": {
+            "definition": "Moving upwards and downwards so that at least one foot is always on the ground such as ascending and descending stairs or curbs.",
+            "examples": "Walking around a marketplace or shop, around or through traffic or other crowded areas."
+        },
+        "Moving around": {
+            "definition": "Moving the whole body from one place to another by means other than walking",
+            "examples": "Climbing over a rock or running down a street, skipping, scampering, jumping, somersaulting or running around obstacles",
+            "sub_activity": "Moving the whole body on hands, or hands and arms, and knees; Moving the whole body upwards or downwards; Moving with quick steps; Moving up off the ground by bending and extending the legs; Propelling the whole body through water by means of limb and body movements"
+        },
+        "Moving around in different locations": {
+            "definition": "Walking and moving around in various places and situations.",
+            "examples": "Walking between rooms in a house, within a building, or down the street of a town, moving around other people's homes, other private buildings, community and public buildings and enclosed areas, walking for short or long distances around a town or village."
+        },
+        "Moving around using equipment": {
+            "definition": "Moving the whole body from place to place, on any surface or space, by using specific devices designed to facilitate moving or create other ways of moving around.",
+            "examples": "With skates, skis, or scuba equipment, or moving down the street in a self-propelled wheelchair or a walker"
+        },
+        "Using transportation": {
+            "definition": "Using transportation to move around as a passenger.",
+            "examples": "Being driven in a car, bus, rickshaw, jitney, pram or stroller, wheelchair, animal-powered vehicle, private or public taxi, train, tram, subway, boat or aircraft and using humans for transportation,  by car, taxi or privately owned aircraft or boat, being crried in the arms, in a sheet, in a backpack or a transportation device."
+        },
+        "Driving": {
+            "definition": "Being in control of and moving a vehicle or the animal that draws it, travelling under one's own direction or having at one's disposal any form of transportation appropriate for age.",
+            "examples": "A car, bicycle, boat or animal powered vehicles, a bicycle, tricycle, or rowboat, an automobile, motorcycle, motorboat or aircraft, an automobile, motorcycle, motorboat or aircraft."
+        },
+        "Riding animals for transportation": {
+            "definition": "Travelling on the back of an animal.",
+            "examples": "Such as a horse, ox, camel or elephant."
+        }
+    },
+    "communication": {
+        "Communicating with receiving spoken messages": {
+            "definition": "Comprehending literal and implied meanings of messages in spoken language.",
+            "examples": "Understanding that a statement asserts a simple fact, a complex fact, an idiomatic expression or human voice without literal meaning.",
+            "sub_activities": "Comprehending the literal meaning conveyed by simple spoken messages;\nComprehending the literal and implied meaning conveyed by complex spoken messages;\nComprehending the human voice or sound without literal meaning."
+        },
+        "Communicating with receiving nonverbal messages": {
+            "definition": "Comprehending the literal and implied meanings of messages conveyed by gestures, symbols and drawings.",
+            "examples": "Realizing that a child is tired when she rubs her eyes or that a warning bell means there is a fire; comprehending traffic signs, warning symbols, musical or scientific notations, and icons; comprehending line drawings, graphic designs, paintings, three-dimensional representations, pictograms, graphs, charts and photographs, such as understanding that an upward line on a height chart indicates that a child is growing.",
+            "sub_activities": "Comprehending the meaning conveyed by facial expressions, hand movements or signs, body postures, and other forms of body language;\nComprehending the meaning represented by public signs and symbols;\nComprehending the meaning represented by drawings."
+        },
+        "Communicating with receiving formal sign language messages": {
+            "definition": "Receiving and comprehending messages in formal sign language with literal and implied meaning."
+        },
+        "Communicating with receiving written messages": {
+            "definition": "Comprehending the literal and implied meanings of messages that are conveyed through written language (including Braille).",
+            "examples": "Following political events in the daily newspaper or understanding the intent of religious scripture."
+        },
+        "Speaking": {
+            "definition": "Producing words, phrases and longer passages in spoken messages with literal and implied meaning.",
+            "examples": "Expressing a fact or telling a story in oral language."
+        },
+        "Non-speech vocal expression": {
+            "definition": "Vocalising when aware of another person in the proximal environment, such as making a sound when the mother is close; babbling; babbling in turn-taking activities. Vocalising in response to speech through imitating speech-sounds in a turn taking procedure."
+        },
+        "Singing": {
+            "definition": "Producing tones in a sequence resulting in a melody to convey messages."
+        },
+        "Producing nonverbal messages": {
+            "definition": "Using gestures, symbols and drawings to convey messages.",
+            "examples": "Shaking one's head to indicate disagreement; drawing a picture or diagram to convey a fact or complex idea; facial gestures (e.g. smiling, frowning, wincing); arm and hand movements, and postures (e.g. embracing to indicate affection or pointing to receive attention or an object); expressing by icons, Bliss board, scientific symbols; using musical notation to convey a melody; drawing a map to give someone directions to a location."
+        },
+        "Producing messages in formal sign language": {
+            "definition": "Conveying, with formal sign language, literal and implied meaning."
+        },
+        "Writing messages": {
+            "definition": "Producing the literal and implied meanings of messages that are conveyed through written language, such as writing a letter to a friend."
+        },
+        "Conversation": {
+            "definition": "Starting, sustaining and ending an interchange of thoughts and ideas, carried out by means of spoken, written, signed or other forms of language, with one or more people one knows or who are strangers, in formal or casual settings.",
+            "sub_activities": "Starting a conversation: Beginning an interchange, such as initiating turn-taking activity through eye-contact or other means, that leads to communication or dialogue, such as by introducing oneself, expressing customary greetings, or by introducing a topic or asking questions.\nSustaining a conversation: Continuing an interchange by taking turns in vocalising, speaking or signing, by adding ideas, introducing a new topic or retrieving a topic that has been previously mentioned.\nEnding a conversation: Finishing a dialogue or interchange with customary termination statements or expressions and by bringing closure to the topic under discussion.\nConversing with one person: Initiating, maintaining, shaping and terminating a dialogue or interchange with one person, such as in pre-verbal or verbal play, vocal or verbal exchange between mother and child, or in discussing the weather with a friend.\nConversing with many people: Initiating, maintaining, shaping and terminating a dialogue or interchange with more than one individual, such as in starting and participating in a group interchange."
+        },
+        "Discussion": {
+            "definition": "Starting, sustaining and ending an examination of a matter, with arguments for or against, or debate carried out by means of spoken, written, sign or other forms of language, with one or more people one knows or who are strangers, in formal or casual settings.",
+            "sub_activities": "Discussion with one person: Initiating, maintaining, shaping or terminating an argument or debate with one person.\nDiscussion with many people: Initiating, maintaining, shaping or terminating an argument or debate with more than one individual."
+        },
+        "Using communication devices and techniques": {
+            "definition": "Using devices, techniques and other means for the purposes of communicating.",
+            "examples": "Calling a friend on the telephone; using typewriters, computers and Braille writers, as a means of communication; reading lips."
+        }
+    },
+    "self-care": {
+        "Washing oneself": {
+            "definition": "Washing and drying one's whole body, or body parts.",
+            "examples": "Using water and appropriate cleaning and drying materials or methods, such as bathing, showering, washing hands and feet, face and hair, and drying with a towel."
+        },
+        "Caring for body parts": {
+            "definition": "Looking after those parts of the body (skin, face, teeth, scalp, nails and genitals) that require more than washing and drying.",
+            "examples": "Looking after the texture and hydration of one's skin, such as by removing calluses or corns and using moisturizing lotions or cosmetics;\nLooking after dental hygiene, such as by brushing teeth, flossing, and taking care of dental prosthesis or orthosis;\nLooking after the hair on the head and face, such as by combing, styling, shaving, or trimming;\nCleaning, trimming or polishing the fingernails;\nCleaning, trimming or polishing the toenails;\nCleaning the nose and looking after nasal hygiene;\nCleaning ears and looking after ear hygiene."
+        },
+        "Toileting": {
+            "definition": "Planning and carrying out the elimination of human waste (menstruation, urination and defecation), and cleaning oneself afterwards.",
+            "sub_activities": "Regulating urination: Coordinating and managing urination, such as by indicating need, getting into the proper position, choosing and getting to an appropriate place for urination, manipulating clothing before and after urination, and cleaning oneself after urination;\nRegulating defecation: Coordinating and managing defecation such as by indicating need, getting into the proper position, choosing and getting to an appropriate place for defecation, manipulating clothing before and after defecation, and cleaning oneself after defecation;\nMenstrual care: Coordinating, planning and caring for menstruation, such as by anticipating menstruation and using sanitary towels and napkins."
+        },
+        "Dressing": {
+            "definition": "Carrying out the coordinated actions and tasks of putting on and taking off clothes and footwear in sequence and in keeping with climatic and social conditions.",
+            "examples": "Putting on, adjusting and removing shirts, skirts, blouses, pants, undergarments, saris, kimono, tights, hats, gloves, coats, shoes, boots, sandals and slippers;\nPutting clothes on over the head, arms and shoulders, and on the lower and upper halves of the body;\nPutting on gloves and headgear;\nTaking clothes off over the head, arms and shoulders, and off the lower and upper halves of the body;\nTaking off gloves and headgear.",
+            "sub_activities": "Putting on clothes: Carrying out the coordinated tasks of putting clothes on various parts of the body;\nTaking off clothes: Carrying out the coordinated tasks of taking clothes off various parts of the body;\nPutting on footwear: Carrying out the coordinated tasks of putting on socks, stockings and footwear;\nTaking off footwear: Carrying out the coordinated tasks of taking off socks, stockings and footwear;\nChoosing appropriate clothing: Following implicit or explicit dress codes and conventions of one's society or culture and dressing in keeping with climatic conditions."
+        },
+        "Eating": {
+            "definition": "Carrying out the coordinated tasks and actions of eating food that has been served, bringing it to the mouth and consuming it in culturally acceptable ways, cutting or breaking food into pieces, opening containers and packets, using eating implements, having meals, feasting or dining."
+        },
+        "Drinking": {
+            "definition": "Taking hold of a drink, bringing it to the mouth, and consuming the drink in culturally acceptable ways, mixing, stirring and pouring liquids for drinking, opening bottles and cans, drinking through a straw or drinking running water such as from a tap or a spring; feeding or suckling from the breast."
+        },
+        "Looking after one's health": {
+            "definition": "Ensuring physical comfort, health and physical and mental well-being.",
+            "examples": "Maintaining a balanced diet and an appropriate level of physical activity;\nKeeping warm or cool as necessary;\nAvoiding harms to health, such as following safe sex practices by using condoms;\nGetting immunizations and regular physical examinations.",
+            "sub_activities": "Ensuring one's physical comfort: Caring for oneself by being aware that one needs to ensure, and ensuring, that one's body is in a comfortable position, that one is not feeling too hot, cold or wet, and that one has adequate lighting;\nManaging diet and fitness: Caring for oneself by being aware of the need and by selecting and consuming nutritious foods and maintaining physical fitness;\nMaintaining one's health: Caring for oneself by being aware of the need and doing what is required to look after one's health, both to respond to risks to health and to prevent ill-health, such as by seeking assistance (professional and non-professional), following medical and other health advice, and managing risks to health such as injuries, communicable diseases, drug-taking and sexually transmitted diseases."
+        }
+    }
+}
