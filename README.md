@@ -60,3 +60,8 @@ This repository contains the code and data for the thesis project of a Text Mini
 2. **Set Up Paths**: Ensure that your working directory is set to the `Data` folder before running any scripts.
 3. **Configure Google Drive**: If using Google Sheets for collaborative work, update the API key or authentication credentials as required.
 4. **Execute Notebooks**: Follow the order mentioned above to execute the notebooks. This will ensure the correct sequence of data processing, model training, and evaluation.
+
+### **References**
+The code for prompting GPT-3.5 is inspired by [ICF-activities-classifier](https://github.com/cltl-students/ICF-activities-classifier), specifically 1.gpt_generated_conversations.ipynb.
+The code for fine-tuning llama3 is adopted from [unslothai](https://github.com/unslothai/unsloth)
+
