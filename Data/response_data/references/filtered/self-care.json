@@ -1,0 +1,152 @@
+[
+    {
+        "Category": "Washing oneself",
+        "Conversation": "C: How are you feeling today? Did you get a chance to wash up? P: Oh, I'm feeling well, thank you. Yes, I already washed and dried myself this morning. C: That's good to hear! Did you enjoy your wash today? P: Yes! And washing up helps me feel refreshed and ready for the day.",
+        "FQ on function level": "C: were you able to wash yourself completely? P: I took care most of my body, but I needed help to wash my back. C: okay, \nhas that always been the case? P: no, it's only recent that I need some help. C: howcome you need help when washing \nnowadays? P: I hurt my shoulder a little while ago, but I hope it will get better soon.",
+        "FQ on feedback": "c how do you feel when you washed yourself this morning? P: It is always nice to\nstart the day refreshed, so I am glad I washed. C: I can imagine that you feel refreshed. Are you satisfied with the way you washed? P: yes, definitely. It was also nice I got some help washing my back."
+    },
+    {
+        "Category": "Washing oneself",
+        "Conversation": "C: Good morning! Did you have a nice shower this morning? P: Yes, I did. I feel really refreshed now. C: That's great to hear. Do you need any help with getting dressed? P: No, I can manage by myself today, thank you. ",
+        "FQ on function level": "C: were you able to get dressed after showering this morning. P: thank you. I needed some help to get dressed, because I \nsometimes get dizzy and then I to sit for a bit. C: okay, were you dizzy today when dressing? P: no, today was good day, but \nit is still nice to have someone around. C: I agree! just in case",
+        "FQ on feedback": "C: how do you feel about being able to shower without help? P: I like doing things on\nmy own, but I have to admit that there is always someone around. C: why is there someone around when you shower? P: a little while ago I slipped and fell. that makes me feel insecure about showring on my own. C: ah, I understand"
+    },
+    {
+        "Category": "Washing oneself",
+        "Conversation": "C: How was your morning routine today? Did you manage to wash yourself? P: Yes, I did take a shower this morning.  C: That's great to hear. Was the water temperature comfortable for you? P: Yes, thank you. The temperature was just right.  C: Did you remember to dry off thoroughly after your shower? It's important to prevent any dampness. P: Of course. I made sure to towel myself dry well before getting dressed.",
+        "FQ on function level": "C: are you able to towel yourself without help? P: nowadays I am, but I needed some help in the past. C: what happened \nearlier? P: a while ago  I slipped in the shower which made my body aich and insecure. after that I got help from a nurse. C: \nyes, there is always a risk of slipping in the shower. How come you do no longer need help. P: the nuse proposed to use an \nanti slip mat which makes me feel more secure",
+        "FQ on feedback": "C: how do you feel about being able to shower in the morning? P:I love a refreshing \nshower in the morning. C: that's nice! do you mean that you take cold showers? P:\noh definitely not, I would freeze. I prefer hot showers! C: maybe you could try it once,\nas I understand it is energizing to have cold showers. P: your free to try it if you like \nit, but I won't"
+    },
+    {
+        "Category": "Washing oneself",
+        "Conversation": "C: Good morning! Did you have a bath today? P: Yes, I did. I also shampooed my hair. C: That's great to hear. Did you reach all parts to wash properly? P: Yes, I did. It took me a bit longer today, but I made sure to get everywhere.",
+        "FQ on function level": "C: do you still mange to get in and out of the bath by yourself? P: yes, maybe because I have been doing it all my life. C: ah, \nthat's the trick. So you are not unstable getting in and out of the bath? P: over the last years I got acustomed to sit on the \nedge of the bath getting in and out. C: that is a good trick indeed! ",
+        "FQ on feedback": "C: how do you feel about bathing in the morning? P: I love it, because I have done it\nall my life. C: it seems difficult to wash your hair in the bath. isn't it so? P: I have done it all my life, so I don't know any better. C:I see, it is your routine"
+    },
+    {
+        "Category": "Washing oneself",
+        "Conversation": "C: Good morning! How was your shower this morning? P: It was refreshing, thank you. I enjoy the warm water. C: That's great to hear. Remember to use the soap and shampoo for a thorough wash. P: Of course, I always make sure to clean every part of my body. C: That's fantastic. Let me know if you need any help drying off afterwards. P: Thank you, I should be able to manage it on my own today.",
+        "FQ on function level": "C: did you need any help washing your hair when showering today? P: today I needed some help washing my hair. C: Why \ndid you need help today. P: sometimes when I get out of bed, I feel dizzy and I need some help in the shower doing my hair.\nC: ah, I understand. does this happen a lot? P: about once a week I feel dizzy getting out of bed. It's not a big deal. I can \nalways call the nurse.",
+        "FQ on feedback": "C: how do you feel about showering? P: I love a refreshing shower in the morning!\nC: that's great, did you need any help today? P: not at all, that give me an extra\ngood feeling and extra energy to start the day. C: I can imagine. it is nice to able to take of one self. Are you sure not to take any risks? P: usually I do, but once I fell, so you cannot quite trust me C: apparently not, but it is good to know that you try"
+    },
+    {
+        "Category": "Washing oneself",
+        "Conversation": "C: Good morning! Did you get a chance to wash yourself today?     P: Yes, I had a nice shower this morning. C: That's great to hear. Do you need any assistance with washing or drying off? P: No, I'm good, thank you. I can manage on my own. ",
+        "FQ on function level": "C: do you need assistance in dressing today? P: no thank you. I think I can manage today. C: that's great! It sounds like you \nhave a little more energy today. Is that so? P: yes. I had good night's rest and that gives me energy to manage my self. C:\nexcellent! let me know if i can help in any other way than",
+        "FQ on feedback": "C: how do you feel about washing yourself today? P: It was nice to experience  that I needed no assistance today. C: that's great, because yesterdau you did need some assistance. P: I was really tired yesterday and then it is nice to be able to ask for help."
+    },
+    {
+        "Category": "Caring for body parts",
+        "Conversation": "C: How are you feeling about taking care of your body today? P: I'm feeling good, trying to start my day with a gentle skincare routine. C: That's great to hear. Are you planning to pick out a lotion you like for your skin? P: Yes, I typically use a fragrance-free moisturizer that works well for my skin. C: Sounds like a good choice. Have you thought about any other body parts you might want to focus on today? P: I'm thinking about spending some extra time on my nails today, trimming and shaping them neatly.",
+        "FQ on function level": "C: Did you take care of your body recently? P: Oh no, I was way too busy to do that, I just not had the time. C: are you saying you did not take care of you face and nails? P: No, I have not, I have not been taking care of myself recently at all",
+        "FQ on feedback": "C: Do you feel you want to take better care of yourself? P: I would but I just do not have the energy to care for my own body. C: It sounds like you are too busy to do that? P: yes I am and I feel awful that  I have not been taking care of myself"
+    },
+    {
+        "Category": "Caring for body parts",
+        "Conversation": "C: How are you feeling today? Have you been taking care of your skin and nails as we discussed? P: Yes, I remembered to use the moisturizing lotion on my skin and trimmed my nails earlier today. C: That's wonderful to hear! How about your dental hygiene? Have you been brushing and flossing regularly? P: Actually, I've been forgetting to floss lately. I'll make sure to start incorporating that into my routine again. ",
+        "FQ on function level": "C: Have you been flossing lately? P: Yes it is now part of my daily routine and I do it every morning and evening C: Great! and what anbout trimming your nails? P: Yes also, I do that every week. C:Great you really take care of yourself",
+        "FQ on feedback": "C: Has it been hard to take up new routines? P: No., it was easy and really enjoy it. C: tell me, what makes it enjoyable? P: well it is just nice to take care of yourself"
+    },
+    {
+        "Category": "Caring for body parts",
+        "Conversation": "C: How have you been caring for your skin lately? P: I've been using a hydrating moisturizer daily to keep my skin from getting too dry. C: That's great to hear. Have you been remembering to apply sunscreen as well? P: Yes, I make sure to apply sunscreen before going outside to protect my skin from sun damage. C: Good job staying consistent with your skincare routine. Is there anything else you need help with for your skin? P: Not at the moment, but I'll let you know if I need assistance with anything else regarding my skin care.",
+        "FQ on function level": "C: we discussed skincare routines, how is it going? P: Not well at all C: why not? P: I have not used the products because I just felt I did not need to take care of my skin",
+        "FQ on feedback": "C: How do you feel about staying consistent with your skincare  P: I am fine, I think I take really good care of myself and am happy with that. C: Keeping regular care won't bother you? P: A bit. Therefore sometimes I didn't do it. C: I but you know it is better to do it, don't you? P: Yes i do, I just do not want to do it"
+    },
+    {
+        "Category": "Caring for body parts",
+        "Conversation": "C: How are you feeling today? Have you been looking after your skin properly? P: Oh, yes! I've been applying moisturizer every day to keep my skin hydrated. C: That's great to hear! How about your dental hygiene? Have you been brushing regularly? P: Yes, I make sure to brush my teeth twice a day and floss after meals too. C: That's excellent! Remember to also pay attention to your nails and hair. Are you keeping them clean and trimmed? P: Of course! I always keep my nails short and clean, and I regularly comb and style my hair as well.",
+        "FQ on function level": "C:Do you manage to do it yourself or do you need help with it? P: For my skin care routine I don't need help, but for cutting and trimming the nails of my right hand I ask my daughter for help. C: Why can't you manage that? P:Because I don't have the fine motor skills with my left hand to cut my nails on the other side. ",
+        "FQ on feedback": " C: How do you feel when you trim your nails? P: It's fine though I need help with that. C: You don't experience that as a problem? P: no, I don't."
+    },
+    {
+        "Category": "Caring for body parts",
+        "Conversation": "C: How are you feeling today? Have you been keeping up with your skincare routine?  P: Yes, I applied lotion and sunscreen this morning to keep my skin hydrated and protected.  C: That's great to hear! Have you also been remembering to brush your teeth twice a day? P: Of course! I brush after breakfast and before bed without fail.  C: Wonderful to hear you're staying on top of it. Do you need help with any other aspects of your personal care routine?  P: I could use some assistance with trimming my fingernails soon. They're starting to get a bit long. Thank you for checking in.",
+        "FQ on function level": "C: Can you do both hands by yourself? P: The nails on my left hand I can do myself, but for cutting and trimming the nails of my right hand I ask my daughter for help. C: Why can't you manage that? P: Because I don't have the fine motor skills with my left hand to cut my nails on the other side.",
+        "FQ on feedback": "C: How do you feel about having to ask for help to cut your nails? P: I don't find that a problem, it only happens about once a month that I need help with that. C: Ok, so you don't experience that as a problem. P: No, I don't."
+    },
+    {
+        "Category": "Caring for body parts",
+        "Conversation": "C: How have you been taking care of your skin and scalp lately? P: Oh, I make sure to moisturize my skin every day and use a gentle shampoo for my scalp. C: That's great to hear! How about your dental hygiene? P: I brush my teeth twice a day and use dental floss regularly to keep my teeth and gums healthy. C: That's important for overall well-being. Do you need any assistance with grooming your hair or shaving? P: No, I can manage those on my own, but thank you for asking.  ",
+        "FQ on function level": "C: That's fine, so you can do all that independently?  P:You, that's right, I don't need any help with that. C: Just let me know if there's a time you can't do it, and I can help you with that. P: Thanks, I'll let you know if you need help.",
+        "FQ on feedback": "C: What is it like for you to perform these self-care tasks? P: It is important to me because I like to look well-groomed. C: Then you must enjoy it when you doing it yourself? P: Absolutely!"
+    },
+    {
+        "Category": "Toileting",
+        "Conversation": "C: How are you feeling today? Did you have any troubles going to the bathroom? P: I'm feeling fine thank you. No issues with using the bathroom today.",
+        "FQ on function level": "C: Did you go to the toilet today? P:Yes I did, it was really hard. C: how come, what made it difficult? P: I just have some issues after the surgery to use the bathroom and it is not going well",
+        "FQ on feedback": "C: How do you feel about having trouble going to the bathroom? You told me last time. P: It makes me feel shamed that I can not do it myself. C: I can imagine, do you talk with the nurses about this? P: Yes I do, and the help me accept the situation"
+    },
+    {
+        "Category": "Toileting",
+        "Conversation": "C: Good morning! How was your morning routine today?   P: Morning! My routine went well, just finished toileting. C: That's good to hear. Did you feel comfortable while toileting? P: Yes, I had no issues. I feel better after toileting. ",
+        "FQ on function level": "C: when you want to be discharged you have to be able to go to the toilet yourself, have you done this today? P: It used to be good, but now I need help while toileting. C: what happened that you are needing help with the toilet? P: I had some complications and now I just got worse",
+        "FQ on feedback": "C: Do you dare to ask for help with the toilet if you need it? P: I won't feel comfortable with that. It's privacy C:Will that stop you asking for help? P: I don't know. I'll try my best before I think I need help."
+    },
+    {
+        "Category": "Toileting",
+        "Conversation": "C: Good morning! How are you feeling today?  P: I'm feeling alright, thank you. C: Have you had any recent difficulties with your toileting activities? P: Not really, just the usual routine. ",
+        "FQ on function level": "C: Is getting up from the toilet also going well? P:It does, but I have to pull myself up by the brace. C: Does that take a lot of energy?P:Yes, that's quite tiring but I'm glad I can manage it myself. ",
+        "FQ on feedback": "C: What is it like for your to be able to perform the activities without much difficulties? P:I'm very happy about it cause it's important to me. C: why is it important. P: well, it means I can do it independently and I don't feel comfortable asking..."
+    },
+    {
+        "Category": "Toileting",
+        "Conversation": "C: How are you feeling today? Did you manage to get to the washroom easily? P: I'm feeling fine, thank you. Yes, luckily I didn't have any trouble getting to the washroom. C: That's good to hear. Do you need any assistance with anything in the washroom this morning? P: No, everything was alright. I was able to do everything on my own as usual. ",
+        "FQ on function level": "C: Did you also manage to dry your back with your hand towel? P: Well, that does take some effort on my part because of my shoulder pain. C: How do you do that? I have a trick I learned from my physical therapist. P: Oh, that's handy!",
+        "FQ on feedback": "C:what is it like for you to be able to wash independently? P: That's very important to me. C:Why is that important? P: Well, I don't feel comfortable asking for help with something as intimate as washing myself."
+    },
+    {
+        "Category": "Toileting",
+        "Conversation": "C: How are you feeling about your toileting activities today? P: I'm feeling fine, had no issues with it. C: That's great to hear! Have you been able to go to the bathroom regularly? P: Yes, I've been going on schedule, no problems there.",
+        "FQ on function level": "C: okay, if there are no problems with going to the bathroom and you go regularly then that's very good. P: Can I ask for help if there would be a problem? C: Yes, you can, just give me a call.",
+        "FQ on feedback": "C: how do you feel about going to the bathroom regularly? P: I'm happy since I think it's important. C:anything else? P: well, it's a bit too much sometimes. I sometimes even want to drink less to pee less. C: please don't do that. P: I'm just kidding hahah"
+    },
+    {
+        "Category": "Dressing",
+        "Conversation": "C: Good morning! Have you dressed up for the day? P: Yes, I have. My friend helped me pick out a nice outfit. C:That's nice. What does it look like? P: I wear that blue shirt and my khaki pants today.",
+        "FQ on function level": "C:Did you need help from your friend getting dressed? P:Yes, I couldn't manage to button my shirt and pants myself. C:Oh, how nice that your friend was there to help you then. P:Yes that's very nice, now I look neat. ",
+        "FQ on feedback": "C: What is it like for you to dress neatly? P:That's very important to me. C:Why is that important to you? P:I like to look well-groomed."
+    },
+    {
+        "Category": "Dressing",
+        "Conversation": "C: How did dressing go for you this morning? P: It was a bit challenging, but I managed to put on my shirt and pants with some effort. C: Do you need any help with your shoes or socks? P: No, I can handle that part by myself. ",
+        "FQ on function level": "C: What was difficult about dressing yourself? P:I had trouble with the buttons of my shirt and of my pants. C:Did you manage to do it yourself anyway? P:Yes, I managed but it took me a long time. C:Did it make you tired? P:Yes, it took me quite a lot of energy.",
+        "FQ on feedback": "C: How do you feel about dressing yourself taking effort? P: I find that very annoying. C:Why is that? P: I prefer to spend my energy on things I like. C:Like what? P: I prefer to do fun things with friends with the energy I have, like going into town."
+    },
+    {
+        "Category": "Eating",
+        "Conversation": "C: How was your meal today, did you enjoy it? P: Yes, I did. The soup was really tasty. C: I'm glad to hear that. Did you have enough to eat? P: Yes, the portion was just right for me.  C: That's good to hear. Is there anything else you'd like to eat later on? P: Maybe a small piece of cake for dessert would be nice.",
+        "FQ on function level": "C: Did you prepare the meal yourself? P: No, I didn't manage to do that today. C: Then how did you get a meal?  P:My neighbor cooked for me. C: Oh, that's very nice! P: Yes, and she can cook very well, too!",
+        "FQ on feedback": "C:Do you always enjoy your meals? P: Yes I have good appetite"
+    },
+    {
+        "Category": "Eating",
+        "Conversation": "C: How was your breakfast this morning? P: Oh, it was lovely. I had some oatmeal and coffee to start my day. C: Did you have any fruits as well? P: Yes, I had a banana along with my breakfast. C: Good to hear. I'm glad you're starting your day with a healthy meal. P: Thank you. I always enjoy having a nutritious breakfast before I start my day.",
+        "FQ on function level": "C: Do you manage to eat a healthy breakfast on most days? P:Yes, almost always. Very sometimes I skip breakfast. C:Why? P: I only do that if I get out of bed very late, but that rarely happens. C:Good, eating a good breakfast is important for your health. P:Yes, I am aware of that. ",
+        "FQ on feedback": "C: do you enjoy eating breakfast every day? P: Yes, it makes me feel fulfilled to start the day with a good breakfast."
+    },
+    {
+        "Category": "Drinking",
+        "Conversation": "C: Do you drink anything for today? P: A lovely cup of tea. C: Do you have milk or sugar with your tea? P: Just a splash of milk, usually. ",
+        "FQ on function level": "C: Do you manage to drink enough in a day? P:No, not always. Today I really should have drunk more. C: Why doesn't that work out? P: I don't always have the energy to pour myself a drink, or I don't think about it. C:Maybe it's a good idea to put a bottle of water next to your chair. P:Yes, that's a good idea!",
+        "FQ on feedback": "C:How do you feel when drink with milk? P: Nice, it makes me feel less dull when drinking. C:Do you know the importance of drinking enough? P:Yes, I know that but I don't always think about it."
+    },
+    {
+        "Category": "Drinking",
+        "Conversation": "C: How have you been feeling about your beverages lately? P: I\u2019ve been really enjoying my afternoon tea. C: That's great to hear! Have you been drinking enough water throughout the day as well? P: I try to, but sometimes I forget to take sips. ",
+        "FQ on function level": "C: Why don't you always manage to drink enough water? P: Oh, I don't always think about it. C: How can you make it easier to think about it? P: I think I need to have a water bottle within reach. C: I think that's a good idea. P: Yes, I'm going to try it right away and keep you posted.",
+        "FQ on feedback": "C: How does it feel to you that sometimes you forget to drink enough? P: Well, that worries me a little bit. C:Why do you worry about that? P:Well, I know it's important to me. "
+    },
+    {
+        "Category": "Looking after one's health",
+        "Conversation": "C: How has your day been going so far? P: Alright, just been doing some exercises and trying to stay active. C: That's great to hear! Have you been keeping up with your walking routine as well? P: Yes, I make sure to take a walk after meals. C: Excellent! Have you been staying hydrated throughout the day too? P: Oh yes, been sipping on water, no worries.",
+        "FQ on function level": "C: That sounds good, so no problems? P:no, exercising and eating and drinking well is going fine for me at the moment. C:That's very nice, so no need for advice or help? P: No hear, no need for that right now, but thanks for the offer. ",
+        "FQ on feedback": "C: How do you feel about keeping up with routine such as your walking after meals  P: It's important I guess but I really don't like it. C: Why? P: it's annoying and so hard to keep it up."
+    },
+    {
+        "Category": "Looking after one's health",
+        "Conversation": "C: How are you feeling today? P: A bit tired, but overall not too bad.  C: Have you been able to keep up with your daily exercises? P: I manage to do some light stretching exercises every morning. C: That's great to hear. And how's your nutrition been lately? P: I've been sticking to my balanced diet with lots of fruits and vegetables.",
+        "FQ on function level": "C: Did you manage to stick to the exercise and nutrition regimen today? P: Nah, honestly I've been pretty lazy today. C: So what did you do today? P:I laid on the couch and watched Netflix. C:And as for your nutrition? P: I didn't eat very healthy today. ",
+        "FQ on feedback": "C: How do you feel about adequate exercise and healthy eating? P: This is important to me, but I sometimes find it hard to keep up. C: Yes, I can imagine it's not always easy to keep up. P:true, but I do my best and I usually manage well"
+    }
+]

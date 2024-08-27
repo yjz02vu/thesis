@@ -1,0 +1,218 @@
+[
+    {
+        "Category": "Communicating with receiving spoken messages",
+        "Conversation": "C: How was your day? Did you enjoy any interesting conversations today?  P: Yes, I had a lovely chat with one of the nurses this morning. C: That's great to hear! What did you two talk about?  P: Oh, we talked about gardening and the beautiful flowers in the garden here. ",
+        "FQ on function level": "C: how long has it been thaty you had coversations with your family? P: the visit me every week and then we talk. C: that's nice! what \nyou talk about last time. P: I suppose we talked about the grand children. they are so cute. C: It is alway nice to talk about the grand \nchildren. Do they also come around for a chat. P: yes, they come after school twice a week.",
+        "FQ on feedback": "C: how do you feel about having conversations with the nurse? P: I love it, because it makes \nme feel attached to the world. C: that's nice. Are you still interested in talking about gardeing?\nP: no, I prefer to talk about sports. C: ah, which sport do you like to talk about?\nP: we always end up talking about footbal"
+    },
+    {
+        "Category": "Communicating with receiving spoken messages",
+        "Conversation": "C: Have you had any opportunities to practice understanding and responding to spoken messages today? P: Yes, during my morning physical therapy session, the therapist gave me instructions to perform different exercises. C: That's great to hear! Did you find it easy to follow the therapist's instructions during the session? P: I did my best, but sometimes I needed her to repeat the steps for me to fully understand. C: It's completely okay to ask for clarification when needed. Is there any particular exercise that you found most challenging to comprehend today? P: The lunges were a bit tricky for me to grasp today, but I managed to complete them with the therapist's support. Thank you.",
+        "FQ on function level": "C: Have you been able to understand what your neighbor said to you this morning? P: It was a bit difficult to understand my neighbor \ntoday. He tends to use complicated words. C: I see, how did you solve this?  P: I asked him to rephrase and that worked. C: good\nidea to ask him to rephrase. WAs it okay for you to ask him to rephrase. P: yes not an problem at all. He really is a nice guy",
+        "FQ on feedback": "C: how did you feel about not understanding your therapist directly? P: he \nalways challenges my in different ways, both physically  and mentally. he \nthinks it helps me walking in the street were it is also crowded. C: oh, wow. \ndo feel that it helps? P: at first I thought it was just annoying, but lately I notice that walking the street does not make me as tired as befor, so maybe it helps! "
+    },
+    {
+        "Category": "Communicating with receiving spoken messages",
+        "Conversation": "C: How was your day? Did anything interesting happen? P: Oh, yes! My neighbor's cat visited me today. It was very friendly and happened to stay all evening. I enjoyed its company. C: That's lovely to hear! Have you been doing your crossword puzzles like usual? P: Yes, indeed. I completed one this morning. It helps me with keeping my mind sharp. C: That's wonderful to hear. Did you watch your favorite game show in the evening? P: Oh yes, it's a favorite of mine, keeps me entertained. I try to guess the answers before they're revealed. It's quite fun!",
+        "FQ on function level": "C: what is you main challenge in ansering to the game shows quesitions? P: I don't know much about economy, but I do know my art, \nso I don't score many points when it comes to geography. C: do you read the newspaper to keep up with economy? P: no I don't. I \nalways check the funnies first and then turn for the art pages. after that I become tired. C: if you would like to be able to answer the \n economy questions you might want to consider reading the economy pages as well. P: I wouldn't dream of it",
+        "FQ on feedback": "C: do you like doing the crossword puzzles in the paper? P: they are my \ndaily challenge and they help to exercise my brain. C: do you think it works?\nP: oh definetely, when I don't have time do do them for a couple of days I\nnotice my memory get worse. C: Keep on doing them I would say!"
+    },
+    {
+        "Category": "Communicating with receiving spoken messages",
+        "Conversation": "C: How have you been feeling today? P: I'm feeling quite good today, thank you for asking. C: Did you enjoy chatting with your friend over the phone earlier? P: Yes, it was nice catching up and sharing some stories.",
+        "FQ on function level": "C: what did you chat about over the phone today. P: my friend suggested to go into town later. C: that's nice, and will you be doing in \ntown? P: I'm not sure; he said something about the park, but also about shopping. C: is there anything you like to do in perticular? P:\nwell, I don't need any groceries, so I hope we are going to the park.",
+        "FQ on feedback": "C: how did you feel about talking to your friend over the phone earlier? P: he is a dear friend and we always call on a thursday. C: so you liked to talk with him? P: definitely, he always knows to cheer me up over the phone. C: that's nice. does he make a lot of jokes, or do you mean something else? P: he remembers al the nice stories from our childhood, which is nice."
+    },
+    {
+        "Category": "Communicating with receiving nonverbal messages",
+        "Conversation": "C: Have you ever needed to understand a message without words, just through symbols or gestures? P: Oh yes, definitely. Sometimes I can tell if someone is feeling sad just from their body language. C: It's impressive how we can comprehend messages without any words, isn't it? P: Absolutely. It's a remarkable aspect of communication that often gets overlooked. C: It truly is amazing how much information we can gather nonverbally, like knowing when someone is excited based on their gestures. P: Yes, it really adds depth to our interactions and understanding of others.",
+        "FQ on function level": "C: when on the phone, do you mis seeing the face of the one you are talking to. P: definitely. I prefer talking to people in person so I\ncan see how they look and gesture during the conversation. C: I see. You can read al lot from just looking at people when talk to them.\nP: indeed. Sometimes they say 'yes' but their body screams 'no'. C: what do you do when you see that happen? P: I usually try to find \nout why that person is sending opposite signals. that usually helps",
+        "FQ on feedback": "C: how do you feel about being able to understand what people mean by just\nlooking at them? P: sometimes it makes me happy, but can also make me sad. C: when does it make you happy? P: I like it very much when people show when they are happy when we talk. it makes me feel that we connect. On the other hand does it make me sad when I see a person struggling."
+    },
+    {
+        "Category": "Communicating with receiving nonverbal messages",
+        "Conversation": "C: How was your day today, dear? P: It was a bit tiring, to be honest. C: I noticed you were rubbing your eyes during the afternoon. Did you not sleep well last night? P: No, I had trouble falling asleep. C: Would you like me to bring you some hot tea to help you relax before bedtime? P: That would be lovely, thank you.",
+        "FQ on function level": "C: I noticed you were tired in the afternoon, but you did not say anything about it. P: I had a bad night sleep, but I did not want to bother\nyou. C: I could not mis it really, you were gasping and rubbing your eyes all afternoon. P: sorry, it always feels the worst in the afternoon\n. I am okay now. C: Oh, it allright, but you had me worried for a bit. I was afraid you were not happy.",
+        "FQ on feedback": ""
+    },
+    {
+        "Category": "Communicating with receiving nonverbal messages",
+        "Conversation": "C: Have you noticed how important nonverbal messages are in our daily interactions? P: Oh yes, definitely. It's like often I can understand how others are feeling even without them saying a word. C: It's amazing how we can interpret gestures, tone of voice, and facial expressions without relying on spoken words, right? P: Absolutely. Sometimes a simple smile can mean more than a thousand words ever could. C: And these nonverbal signals help make our communication more meaningful and help us connect better with others. P: Definitely, it's something we all naturally pick up on through socializing and observing others!",
+        "FQ on function level": "C: I saw you smiling a lot at the party today, what was happening? P: Great that you noticed, and yes I was smiling a lot because I received good news. C: tell me more, what was making you smile? P: I just learned I got accepted to the bachelor of medicine. C: Oh that sounds like amazing news. I can Imagine you smiling a lot P: yes, the smile going to stay for a long time",
+        "FQ on feedback": "C: how do you feel about the lady in the shop who always smiles at you ?P: She is a lovely lady, a true gentle soul, that makes me happy,  C:what made you so happy about it? P: i just love true gentle souls"
+    },
+    {
+        "Category": "Communicating with receiving formal sign language messages",
+        "Conversation": "C: How are you feeling today? Have you participated in any sign language conversations? P: I'm feeling alright. Yes, I had a nice conversation in sign language this morning. C: That's great to hear! Were you chatting with your group about anything interesting? P: We talked about past vacations and travels. It was nostalgic and fun. C: Sounds like a wonderful conversation. Plus, reminiscing about trips must have brought back some great memories. P: Definitely! I cherish those experiences, and expressing them in sign language makes them even more special.",
+        "FQ on function level": "C: For how many years have you communicated in sign language? P: For four years now C: and do you feel you can have an in-depth conversation in sign language? P: no, I feel I am still learning, I know the basics to keep the conversation going C: and are you still taking courses? P: yes I do, twice a month",
+        "FQ on feedback": "C: How do you feel about talking in sign language?  P: I think it is really nice to be able to include everybody in the converstaion. C: and how does that make you feel? P: It is a really good feeling to be able to contribute to a more inclusive society"
+    },
+    {
+        "Category": "Communicating with receiving formal sign language messages",
+        "Conversation": "C: How was the session today, receiving and comprehending messages in formal sign language?    P: It went well, I really enjoy learning and practicing sign language.     C: That's great to hear! Do you find it easy to understand the literal and implied meaning in sign language messages?   P: Somewhat, but I'm getting better at picking up on the subtleties and nuances in the signs. ",
+        "FQ on function level": "C: you were telling me you just learned to sign, do you communicate with sign language daily? P: Oh no, I wish. I can follow the conversation well but to really communicate I need to practice a lot more. C: do you practice every day? P: Yes I do, I try to learn to sign every day and I do get better. C: How do you notice you get better? P: I feel that deaf people are able to follow my signs and respond to the signs adequately",
+        "FQ on feedback": "C: You told me you practice every day, how is the sign language lesson today? P: It is difficult, at time it makes me insecure and I need the stamina to continue learning. C: But you also told me you get better, tell me more P: yes that gives me a great feeling to be able to get better and better in signing and communicating"
+    },
+    {
+        "Category": "Communicating with receiving written messages",
+        "Conversation": "C: Do you enjoy reading the daily newspaper to follow political events? P: Yes, I find it interesting to keep up with what's going on in the world. C: That's great to hear. Do you also enjoy reading religious scriptures to understand their intent? P: Absolutely, it brings me a sense of peace and fulfillment to dive into spiritual texts.",
+        "FQ on function level": "C: So you haven't been reading as much lately? P: no, I find it hard to read the daily newspapers. C: How come you don't read as much? P: I just do not feel I am able to understand the content as well as I used to do",
+        "FQ on feedback": "C: How does it make you feel to keep up with the news by reading newspapers? P: It makes me slightly sad, there is just too much bad news C: I am sorry to hear! P: Yes it is I certainly used to enjoy my daily routine of starting the day with reading the news"
+    },
+    {
+        "Category": "Communicating with receiving written messages",
+        "Conversation": "C: How have you been enjoying reading the newspaper lately? P: I really look forward to catching up on current events every morning. C: That's great to hear! Do you find it important to stay informed about what's happening in the world? P: Absolutely. It helps me understand the world around me and sparks interesting discussions too.",
+        "FQ on function level": "C: How are you keeping up with the news lately? P: Really well, thank you. I even added more newspapers to read in the morning. C: It sounds like you really spend time to keep up with the news? P: Yes I do, I spend at least an hour in the morning reading the news",
+        "FQ on feedback": "C: What makes reading the news so important for you? P: I don't know, I think at my age it make me feel connected to a wider world. C: so by reading the news you feel you still are able to be part of society. P: Yes I think if you put it that way, that is why reading makes me really content"
+    },
+    {
+        "Category": "Communicating with receiving written messages",
+        "Conversation": "C: Good morning! Have you read anything interesting in the newspaper today? P: Yes, I read an article about the upcoming local elections. C: That sounds interesting! Do you enjoy staying updated on political events? P: I do. Understanding different viewpoints helps me form my own opinions.",
+        "FQ on function level": "C: have you read anyting interesting in the paper today? P: not really. I find that I don't like reading the paper as  much as I used to. C: how come? P: I notice I have difficulty reading long texts. I sometimes need to read a sentence multiple times before I get the message. C: that's a pity. how has that changed the way you read the paper? P: I scan the headlines and then move on to the funnies.",
+        "FQ on feedback": "C: ho do you like reading other peoples viewpoints in the news paper? P: I love to read the paper, allthough I often disagree with their opinions about the economy. C: does this mean you do not like to read the economy pages? P: oh yes I do actually and I sometimes wright a reaction to share my opinion about certain toplcs."
+    },
+    {
+        "Category": "Speaking",
+        "Conversation": "C: How has your day been so far, Mary? P: Good, thank you. I had a nice walk in the park this morning. C: That sounds lovely. Did you talk to anyone while you were out? P: Yes, I bumped into a neighbor and we had a nice chat. It was great to catch up. What about you, do you enjoy speaking to people too?",
+        "FQ on function level": "C: Are you still enjoying walks in the park to chat with your neighbours? P: No I don't, I don't go out as much and do not speak to may others persons either. C: How come you don't speak to them? P: Now it is winter, and not many people are out. And if I do catch a neighbour they are mostly to busy to make a short converstation",
+        "FQ on feedback": "C: You used to enjoy speaking with your neighbours in the park but now you do not speak to them. How do you feel about that? P: It makes me sad, I enjoy speaking with other people and hearing stories about their lives C: do you feel it will change once it is spring? P: Definitely! Once the sun comes out, I can go outside and speak to the neighbours on a bench in the park, I am so much looking forward to some nice conversations again"
+    },
+    {
+        "Category": "Speaking",
+        "Conversation": "C: How have you been feeling about your ability to speak lately? P: I've been feeling good; feeling I can express is great. C: That's fantastic to hear! Have you been practicing any relaxation techniques recently? P: Yes, I've been doing some deep breathing exercises to help. It has been helping me stay calm. C: That's wonderful to hear! You're doing a great job taking care of yourself. P: Thank you, I appreciate the support and guidance in this process. ",
+        "FQ on function level": "C: How is your ability to speak progressing? P: Not so well, the techniques worked for a little while but now I am not making progress with my ability to speak. C: Are you getting support to improve speaking? P: Yes I do, I am receiving help from a professional to improve. ",
+        "FQ on feedback": "C: How does the deep breathing exercises affect your communication with other people? P: Very well, I am much better at talking to people and that make me less lonely. C: I can imagine. Would you like more help speeding up your ability to speak? P: Yes I would, it makes me even more happy"
+    },
+    {
+        "Category": "Speaking",
+        "Conversation": "C: How are you feeling today, Mr. Johnson? Did you have a good day? P: Oh, yes. Today was a lovely day. The sun was shining so bright! C: That's wonderful to hear. Have you been speaking with anyone interesting today? P: Yes, I chatted with my neighbor about his garden. He grows some beautiful roses. C: That sounds like a pleasant conversation. How did your conversation go? P: We shared our gardening experiences together and he gave me some tips about planting tomatoes.",
+        "FQ on function level": "C: have you been talking to your neighbor lately? P: yes, we had a chat yesterday about our grandchildren. C: that is nice. did you have a good talk? P: yes, we talked about how they are doing at school and sports. we found out that both our grandsons play soccer. C: that is a nice coincedence. P: it is nice to talk with people to find out common interests",
+        "FQ on feedback": "C: how do you like to talk to your neighbors? P: not to much I have to say. C: oh, that's a pity. how come it is not nice to talk to your neighbors? P: they are a bit grumpy, which means they always are complaining about a lot of things. C: I understand. do all of your neighbors complain a lot? P: the ones across the street al allright, but we rarely see them since they are always working"
+    },
+    {
+        "Category": "Non-speech vocal expression",
+        "Conversation": "C: How have you been feeling about your vocalising activities lately? P: Lately, I've been trying to vocalise more when my family members are close by. C: That\u2019s great to hear! Have you found it helpful in communicating with others? P: Yes, it has definitely made interactions more engaging and fun!",
+        "FQ on function level": "C: Do you think your interactions with family members have improve since you vocalise more? P: Oh yes for sure, we are often in contact and the contact has improved a lot now we understand each other better ",
+        "FQ on feedback": "C: How do you feel now you are better able to express yourself through facial expressions better? P: Really good, for a while, I thought I lost my ability to express myself but I feel they understand me better C: Can you tell me why you feel that way? P: Well, when I am happy and they come in the room, they immediately see that I am having a good day. It makes me feel connected and happy"
+    },
+    {
+        "Category": "Non-speech vocal expression",
+        "Conversation": "C: How does the Non-speech vocal expression activity make you feel, P? P: It makes me feel lively and present in the moment. C: What sounds do you like to make during this activity? P: I enjoy mimicking bird sounds and humming tunes. C: That sounds lovely, P! Do you feel a sense of connection when engaging in this activity? P: Yes, it helps me feel connected and engaged with my surroundings.",
+        "FQ on function level": "C: Have you mimick sounds today? P: No not today, I was too busy. C: And have you also mimicked other sounds? P: Yes I have been busy today with new sounds. C: wonderful, and Is it working out for you? P: yes really well, I can now also mimick sounds of other animals",
+        "FQ on feedback": "C: Are you still enjoying making sounds of birds? P: Yes it is so enjoyable, I can really trick people. C: How so? P: Well, my neighbours think that there is a whole range of new birds in the yard and when I tell them it is me, we share a good laugh"
+    },
+    {
+        "Category": "Singing",
+        "Conversation": "C: Have you been practicing your singing daily, Mr. Smith? P: Yes, I really enjoy practicing my favorite songs every day. C: That's wonderful! Singing can be so therapeutic, don't you think? P: Absolutely, it really lifts my spirits and brings me joy.",
+        "FQ on function level": "C: I heard you singing when I came in, you still sing every day? P: it is funny you heard that, yes I sing every day, even more than I used to do. C: and how long do you sing for every day? P: well I sing in the morning, sometimes even up to one hour at time",
+        "FQ on feedback": "C: You told me it lifts your spirits to sing, is that still true? P: O yes, very much so, I just feel so relaxed and at peace when I sing. C: Is this true for every time you sing? P: Yes every time I sing my mood improves so much"
+    },
+    {
+        "Category": "Singing",
+        "Conversation": "C: Have you been doing any singing lately?  P: Yes, I've been singing old songs in my room.  C: That's lovely. Do you find singing to be relaxing?  P: Absolutely, it calms me down and brings back memories.  ",
+        "FQ on function level": "C: Do you still sing every week in the choir? P: No I don't, I have not been singing lately. C: oh no, that sounds like you are not able to sing any more? P: No I can't sing anymore",
+        "FQ on feedback": "C: do you still enjoy singing old songs as much? P: No i dont and t is kind of sad as it gave me so much joy, now I am mostly sad and missing it C: Do you want to sing again? P: Yes I would, I will pick up singing again"
+    },
+    {
+        "Category": "Singing",
+        "Conversation": "C: Do you enjoy singing, Joan?    P: Yes, I used to sing in the choir when I was younger. C: That's wonderful! Would you like to sing a little now? P: Oh, I don't usually sing solo, but I can join in if there's a group singing. ",
+        "FQ on function level": "C: do you like singing? P: yes I do, I am not good at it though. C: okay, do you regularly do sing P: mainly under the shower. I don't want to bother others. C: maybe your singing is not so bad as you think. You're just shy I guess P: that maybe so, but still I don't feel the urge to sing in public. C: would'nt you like visitiing the sing a long later this afternoon, you can decide for yourself if you like to sing or not. P: oh that sounds nice. I will try that",
+        "FQ on feedback": "C: how do you like to sing? P: I love it. It always makes my happy and I sing all day. C: that sounds nice. do you always sing alone or also with others? P: I prefer to sing alone, so I can sing just any song I like without having to ask others"
+    },
+    {
+        "Category": "Producing nonverbal messages",
+        "Conversation": "C: How was your day, Mr. Foster? Did you use any nonverbal communication today? P: Oh, hello! Yes, I used my hand gestures to thank the nurse earlier. C: That's great to hear! Have you tried drawing any symbols recently? P: I actually did draw a simple diagram to explain something to one of the nurses yesterday. C: That's wonderful! Nonverbal communication is truly valuable in making ourselves understood. P: Definitely. It helps me express myself when words fall short.",
+        "FQ on function level": "C: Do you still communicate with hand gestures with the nurse? P: well I do sometimes, but she is also able to understand me better without the gestures. C: So your non-verbal communication with her has improved even without using gestures? P: Yes it has improved, we understand each other much better even without speaking",
+        "FQ on feedback": "C: How do you feel about your non-verbal communication with your nurse? P: Well it is really nice to feel we can trust each other without using verbal language. The power of non verbal communication is really impressive. C: and it makes you feel content to communicate this way? P: Yes it does make me feel content that we understand each other without words"
+    },
+    {
+        "Category": "Producing nonverbal messages",
+        "Conversation": "C: How do you try to indicate your preferences when you can't express yourself orally?   P: I often nod or shake my head for yes or no, or point at things to show interest. C: How else do you convey your feelings or needs instead of using words? P: Smiling or frowning usually does the trick for expressing happiness or discomfort. C: Do you find it helpful to use gestures or drawings to communicate more complex ideas? P: Drawing simple pictures or using hand gestures can definitely come in handy when words fail me.",
+        "FQ on function level": "C: Are you still able to express yourself without verbal language? P: No I am not able as well as I used to do this C: How come you are not as able anymore? P: I don't know, my hands are not working as well so I can not support myself in non-verbal communication",
+        "FQ on feedback": "C: How does it make you feel to make drawings to express yourself? P: I do not have a feeling about it, it is what it is C: do you mean you have come to terms with not being able to express yourself? P: Yes i have come to terms and try to enjoy each day none the less"
+    },
+    {
+        "Category": "Producing nonverbal messages",
+        "Conversation": "C: Did you have a chance to practice using nonverbal messages in your daily activities today? P: Yes, when my granddaughter visited, I smiled and hugged her to show happiness. C: That's wonderful! It's important to use nonverbal cues to express our emotions and feelings. P: Definitely. I find it helpful to use gestures and facial expressions to communicate effectively.",
+        "FQ on function level": "C: have you been practising your non verbal messages yesterday? P: yes I did with my neighbor. C: interesting! tell me some more. P: we had a conversation that made me really enthousiastic so I smiled and made gestures with my arms and body to express my happiness. C: good thing. did it come natural? P: at first I have to think about it, but as the conversation goes it seems to come more naturally. C: that's great. People tend to notice when you don't really mean that you are enthuousiastic if you don't show nonverbal messages that go with the emotion",
+        "FQ on feedback": "C: how do you feel about using nonverbal messages? P: ever since my stroke I find it hard. C: how so? P: It is hard for me to use my right hand and my face feels a bit stif when I want to smile. C: I can understand that it is difficult. do you worry about that? P: yes, I do, becaus I don't want people to think I am not enthousiastic about the story they are teling. C: maybe explain to them that you have difficulty expressing nonverbal messages due to your stroke?"
+    },
+    {
+        "Category": "Producing messages in formal sign language",
+        "Conversation": "C: Have you had any experience producing messages in formal sign language? P: Yes, I used to work with kids in schools and had to communicate formally using sign language. C: That must have been a rewarding experience. How did you find conveying messages in formal sign language? P: It was challenging at first, but with practice, I got more comfortable and could express both literal and implied meaning effectively.",
+        "FQ on function level": "C: Do you still work in the school for deaf children? P: Yes I do and it is going great, my sign language skills have improved so much that I can teach for an hour at a time C: That is so great, so you have really improved your signing? P: Yes it has become a really rich new language that I master now",
+        "FQ on feedback": "C: It sounds like you really enjoyed teaching kids in sign language? P: Yes I do, it is great to be able to share information while signing and seeing that the kids learn from me C: that must be really rewarding P: It is! I enjoy it to the max"
+    },
+    {
+        "Category": "Producing messages in formal sign language",
+        "Conversation": "C: Have you been practicing signing formal messages more frequently these days? P: Yes, I enjoy carefully crafting the signs to represent what I want to message, especially greetings and common expressions. C: That's great to hear! Is there a particular message you feel most comfortable practicing over and over? P: I like perfecting the sign for appreciation, it's just so eloquent when signing out to say a genuine \"thank you.\" ",
+        "FQ on function level": "C: How do you communicate in formal settings with sign language? P: It can be really hard to find other people who can sign in formal settings? C: so while you can sign, it can be harder to communicate in formal settings? P: Yes it can be really hard for me to express myself in these settings",
+        "FQ on feedback": "C: How does it make you feel to be able to communicate in sign language in formal settings? P: It is just mostly very enjoyable. C: why do you enjoy it so much? P: Because I feel our society is more inclusive than it used to be and I am happy to be part of it "
+    },
+    {
+        "Category": "Writing messages",
+        "Conversation": "C: How have you been passing your time recently, writing messages perhaps? P: Yes, I've been sending emails to my family and friends to check in on them. C: That's a great way to keep in touch. Are you enjoying writing these messages? P: It makes me happy when I can brighten someone's day with a message. C: It's wonderful that you find joy in staying connected. Did you write any letters back in the day too? P: Oh yes, I remember writing letters to my dear ones in simpler times; much more personal feeling mail.",
+        "FQ on function level": "C: have you been writing letters to your family recently? P: no I have stopped writing to them C: oh so sorry to hear, have you stopped completely? P: yes I have, I have more trouble writing nowadays so it is to hard",
+        "FQ on feedback": "C: You were enjoying writing to your family, how does that make you feel? P: it is ok, I enjoy the fact that by writing we remain in contact C: and tehy write you back?? P: Yes they do and I love receiving their letters as well"
+    },
+    {
+        "Category": "Writing messages",
+        "Conversation": "C: Hi there, how has your day been? Have you been writing any messages lately? P: Oh, hello! Yes, I did write a letter to my grandchild today. I like to keep in touch with them through letters. C: That's so lovely to hear! Writing a letter must bring back fond memories. P: It sure does! I enjoy reminiscing about the past while writing. It feels nice to share stories with my family. C: Writing messages can be such a meaningful way to connect with loved ones. They must cherish the letters you send. P: Definitely. It's a more personal touch than just a quick message on the phone. Plus, I love seeing their handwritten responses in return.",
+        "FQ on function level": "C: how is the communication going with your grandchildren, do you still write them? P: Yes we do, I now write them every month C: so you write letters even more than you used to do? P: Yes, I am really writing a lot, I have so much to tell in the letters",
+        "FQ on feedback": "C: and how do you feel about writing all these letters to the grandchildren? P: I feel great, I keep all their letters and they keep mine as well C: that is so sweet, I can understand it is a great way to communicate P: It is so nice to take time to write stories to the younger generation"
+    },
+    {
+        "Category": "Conversation",
+        "Conversation": "C: Good morning! How are you feeling today? P: Good morning, I'm feeling alright, thanks for asking. C: Would you like to have a conversation about something that interests you? P: Oh sure, I always enjoy chatting about the latest news and my old stories. ",
+        "FQ on function level": "C: Have you been talking with your friends recently? P: Yes we have conversations every day! C: that is great, how long are you having conversations with your friends for? P: we can have conversations that last for an hour at time, we can just keep on talking",
+        "FQ on feedback": "C: the way you talk about your conversations with your friends tell me you really enjoy them P: Yes I do, it is so important for me to have meaningful conversation with friends. C: Why is it so important for you? P: well it is just really important to stay connected to other people and talk about our lives"
+    },
+    {
+        "Category": "Conversation",
+        "Conversation": "C: How was your day today, did you engage in any interesting conversations? P: Oh yes, I had a lovely chat with my neighbor about her garden. ",
+        "FQ on function level": "C: your neighbourhood seems really well connected, do you still talk to your neighbours? P: Yes every day we talk in the garden. C: that is really nice, and even if the weather is bad? P: yes even if the weather is bad we have some small conversations, we enjoy the talks in the garden ",
+        "FQ on feedback": "C: have do you feel about you contact with the neighbours , do you enjoy talking to them? P: Yes I do, but sometimes I find the conversations a bit boring. C: how come, do you not like to talk to them P: well most of the time the conversations are about the weather and I like to talk about politcs, so I find the conversations boring"
+    },
+    {
+        "Category": "Conversation",
+        "Conversation": "C: How was your day, did you have a good conversation with anyone recently? P: Yes, I had a nice chat with my neighbor today. C: That's great to hear. What did you both talk about? P: We talked about her garden and upcoming vacation plans. ",
+        "FQ on function level": "C:were you able to talk with your neighbor today? P: we met in the street and said hello, but other than that conversation is limited, because he comes from abroad. C: ah, he speaks a different language. how do you cope with that? P: it's talking with our hand and feet. we have fun, but it is complecated to have a meaningful conversation. C: I understand, maybe try Google translate next time",
+        "FQ on feedback": "C: how do you like talking about your vacation plans with anyone? P: It's is like talking about the weather; it's just polite to make conversation, but I don't consider it to be a meaningful conversation. C: I understand. do you find it hard to talk about the subjects you are interested in? P: oh yes, I find most people to be not really interested in what I have to say. "
+    },
+    {
+        "Category": "Discussion",
+        "Conversation": "C: Good morning! How was last night's discussion group? P: Good morning! It was insightful. We discussed the current events. C: Sounds interesting. What were the main points of the discussion? P: We talked about ways to stay connected virtually with our loved ones. C: That's a relevant topic. Did you share any of your own experiences? P: Yes, I told them about how my granddaughter teaches me to video call.  ",
+        "FQ on function level": "C: Do you still participate in group discussions? P: No I have not been going to the groups lately C: how come you do not go anymore C: well the discussion groups were not enjoyable anymore, the discussion were to heated as they now mostly involved politics",
+        "FQ on feedback": "C: You enjoy some good discussion don't you? P: yes I do enjoy having discussions about current politics C: so why do you not enjoy the discussion in the discussiongroups anymore? P: well the discussion became too heated and I do not like to have discussion that are too emotional"
+    },
+    {
+        "Category": "Discussion",
+        "Conversation": "C: Good morning! How did your discussion group go yesterday? P: Oh, it was great! We had a lively debate about climate change and its effects. C: That sounds interesting! Did you share your views on the topic as well? P: Yes, I made sure to speak up and share my experiences living through different weather patterns. ",
+        "FQ on function level": "C: how are the discussion group meetings? P: they are fine, we now meet twice a week instead of one C: so you have a discussion more often? P: yes we do have discussions more frequently as we have so many topics to discuss",
+        "FQ on feedback": "C: Are you still enjoying discussing current affairs in the discussion group? P: yes it is so nice to be able to share your thoughts with likeminded people  C: tell me how it make you feel P: It makes me feel very connected to other people and I really feel good to be connected with other people"
+    },
+    {
+        "Category": "Discussion",
+        "Conversation": "C: Good morning! How do you feel about having conversations?  P: I really enjoy discussing various topics. C: That's great to hear. Let's talk about your hobbies. What do you enjoy doing in your free time? P: I spend my time reading books and watching classic movies.",
+        "FQ on function level": "C: shall we today discuss about the books you read lately? P: today I am not in the mood to discuss my books, but I do like to talk with you about the movie I saw last night. C: could you explain the plot of the movie to me? P: you mean telling you the story line? I'd love to! C: can't wait!",
+        "FQ on feedback": "C: how do you like having conversations with your friends about your hobbies? P: I have some really good friends with whom we share the same hobbies, so it's a great pleasure to discuss our hobbies! C: sounds great! have you been doing that recently? P: last weekend we had a gathering where we spoke about gardenining a lot."
+    },
+    {
+        "Category": "Using communication devices and techniques",
+        "Conversation": "C: How are you feeling today? Have you chatted with any friends?   P: Feeling good, thank you. I just spoke to my nephew on the phone.   C: That's nice to hear. Did you have a good conversation?   P: Yes, we caught up on each other's week. It was lovely.   C: It's important to stay connected with loved ones. Is there anyone else you'd like to chat with?   P: I might give my old friend a call later in the day.   ",
+        "FQ on function level": "C: I heard you lost your phone, can you still communicate with your friends P: yes that was really unfortunate, I could not talk to them for a while because I did not have a phone C: are you planning to get a new phone P: Off course! I just got one yesterday and I called all my friends this morning. ",
+        "FQ on feedback": "C: It seems that talking to your friends on the phone is really important for you P: yes it is, it is the only way I can communicate with my friends as they live far away C: and it make you feel good to talk to them? P: yes we have been friends for a long time so we enjoy the conversations on the phone a lot, we know each so well"
+    },
+    {
+        "Category": "Using communication devices and techniques",
+        "Conversation": "C: How was your day, Mr. Johnson? Have you been using communication devices today? P: Yes, I used the phone earlier to chat with my daughter. She fills me in on what's happening in her life. C: That's nice to hear. Do you have any difficulties with communicating over the phone? P: Oh, sometimes I find it hard to hear everything clearly, but my daughter speaks slower for me.  C: That's thoughtful of her. I'll make sure we adjust the phone settings for better clarity next time. P: Thank you, dear. That would be very helpful.",
+        "FQ on function level": "C: Are you still having trouble with communicating over the phone? P: no, I have a really cool device now, I have a hearing aid that is connected to my phone C: and now you are better able to communicate? P: Yes I am, the sounds of the phone goes directly to the hearing aid so I can hear her pretty well",
+        "FQ on feedback": "C: how do you feel about the conversations on the phone P: It is so good,  with my new hearing device I am now able to have conversations with my daughter without having to ask to repeat what she said C: and that makes you less nervous about the conversation? P: Yes I feel more confident and I am happy that we can have some good conversations on the phone."
+    },
+    {
+        "Category": "Using communication devices and techniques",
+        "Conversation": "C: P, have you had a chance to use the tablet for video calls with your family lately? P: Yes, I was able to talk to my grandkids and they showed me their latest school projects. C: That's wonderful! Is it easy for you to use the tablet for video calls? P: Oh yes, my grandchildren showed me a few times, now I can do it myself. C: It's great to hear that you're connecting with your family more often through technology. Is there any other way you prefer to communicate with them? P: Sometimes I like sending emails too. But video calls are special, I get to see their faces and hear their voices.",
+        "FQ on function level": "C: have you been using your tablet for video calls lately? P: yesterday I tried to talk with my sister in New Zealand, but I could not get connected. C: that's a pitty, what went wrong? P: I am not sure. I could hear her voice but I could not get an image. C: okay, are you sure you used all the right buttons to get video connection? P: I am not sure. I always get confused and sort of stressed when things do not go the way I want, so maybe I did not use the right buttons. C: let me try if I can help you later today. P: that would be great!",
+        "FQ on feedback": "C: how do you feel about using your tablet for video calls with your grandchildren? P: I love it, when I can get it working, but I sometimes get mixed up with the technology and then I get stressed. C: that's a pitty. how about if I set up a short 'how to guide' on paper for you? P: that would really help me. thank you!"
+    }
+]
